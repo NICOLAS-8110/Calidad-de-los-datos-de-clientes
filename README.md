@@ -1,5 +1,3 @@
-<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/672ab2fc-7403-4cff-ba2c-ee8e08407865" />
-
 <div align="center">
   <img width="1280" height="640" alt="Calidad de los datos de clientes" src="https://github.com/user-attachments/assets/672ab2fc-7403-4cff-ba2c-ee8e08407865" />
 </div>
@@ -30,4 +28,4 @@ Antes de iniciar este proceso, fue necesario llevar a cabo una etapa exhaustiva 
 ---
 
 ## 📂 Archivo Principal
-* `Alpha_customer_data_quality.ipynb` *(Asegúrate de que coincida con el nombre exacto del archivo `.ipynb` que subas a este repositorio).*
+* `Alpha_customer_data_quality.ipynb`.
