@@ -1,8 +1,9 @@
 <div align="center">
-  <img width="1280" height="640" alt="Calidad de los datos de clientes" src="https://github.com/user-attachments/assets/672ab2fc-7403-4cff-ba2c-ee8e08407865" />
+  <img width="1280" height="640" alt="WhatsApp Image 2026-11-17 at 3 00 46 PM" src="https://github.com/user-attachments/assets/b394fbab-6eac-4ed2-9c12-a377843c84f4" />
 </div>
 
 # 📊 Calidad y Validación de Datos de Clientes (Store 1)
+
 
 ## 📋 Descripción
 **Store 1** planea implementar un programa de fidelización con el objetivo de comprender mejor a sus clientes y desarrollar campañas de marketing más personalizadas.
